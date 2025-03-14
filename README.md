@@ -1,4 +1,6 @@
 # TuxedoBytes
 ## tuxedobytes.github.io
 
-www.tuxedobytes.com
+This repo contains the generated static website:
+
+[www.tuxedobytes.com](https://www.tuxedobytes.com/)
