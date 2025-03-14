@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TuxedoBytes</title>
+    <link>https://www.tuxedobytes.com/</link>
+    <description>Recent content on TuxedoBytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.tuxedobytes.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://www.tuxedobytes.com/posts/first/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.tuxedobytes.com/posts/first/</guid>
+      <description>&lt;p&gt;Finally got little time to make some progress on this side project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://www.tuxedobytes.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.tuxedobytes.com/about/</guid>
+      <description>&lt;p&gt;I am the &lt;strong&gt;Linux&lt;/strong&gt; and &lt;strong&gt;Geek&lt;/strong&gt; type of guy - if you have questions regarding topics I covered in my videos or need more help to understand something better then feel free to reach out to me at &lt;a href=&#34;https://tuxedobytes.locals.com/&#34;&gt;tuxedobytes.locals.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We can either work on your problem you encountered at school,work or home and/or I can provide a tutoring in the domain of linux, system engineering, programming etc.&lt;/p&gt;&#xA;&lt;p&gt;Or we can just talk and discuss anything you will wish - &lt;strong&gt;locals.com&lt;/strong&gt; is not censor-heavy like YouTube and other platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>https://www.tuxedobytes.com/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.tuxedobytes.com/content/</guid>
+      <description>&lt;h2 id=&#34;video-and-tutorials&#34;&gt;Video and Tutorials&lt;/h2&gt;&#xA;&lt;h3 id=&#34;youtube&#34;&gt;YouTube&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@tuxedobytes&#34;&gt;youtube.com/@tuxedobytes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;rumble&#34;&gt;Rumble&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://rumble.com/c/tuxedobytes&#34;&gt;rumble.com/c/tuxedobytes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;extras-and-tutoring&#34;&gt;Extras and Tutoring&lt;/h2&gt;&#xA;&lt;h3 id=&#34;locals&#34;&gt;Locals&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tuxedobytes.locals.com/&#34;&gt;tuxedobytes.locals.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
