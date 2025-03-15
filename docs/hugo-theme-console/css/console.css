@@ -311,3 +311,30 @@ figure {
         padding-top: 5px;
     }
 }
+
+.stripe-card1 {
+  float: right;
+  text-align: right;
+}
+
+.stripe-btn1 {
+  float: right;
+  text-align: right;
+}
+
+.my-center {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.my-spacer {
+  width: 100%;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
